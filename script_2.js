@@ -1,2 +1,8 @@
 'use strict'
-alert('ki-ya');
+let admin,
+    name;
+admin = 'Джон';
+name = admin;
+
+
+alert(name);
