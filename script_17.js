@@ -1,4 +1,5 @@
 'use strict'
-let i = 0;
-while (i++ < 5) alert(i);
-while (++i < 5) alert(i);
+for (let i = 0; i < 11; i = i+2) {
+    if (i == 0) continue
+    alert(i)
+}

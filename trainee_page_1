@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
+<title>trainee_page_1</title>
 <body>
 <p>I'm developer</p>
-<script src="./script_16.js"> /*change number of script file*/
+<script src="./script_26.js"> /*change number of script file*/
 </script>
 <p>yeah boy</p>
 </body>
